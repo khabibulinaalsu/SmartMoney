@@ -2,7 +2,7 @@
 //  SmartMoneyUITests.swift
 //  SmartMoneyUITests
 //
-//  Created by Alsu Khabibulina  on 04.02.2025.
+//  Created by Alsu Khabibulina  on 13.05.2025.
 //
 
 import XCTest
